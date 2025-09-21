@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Financ\Financ\obj\Debug\Financ.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Financ\Financ\obj\Debug\Financ.Properties.Resources.resources
+C:\Users\user\source\repos\Financ\Financ\obj\Debug\Financ.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Financ\Financ\obj\Debug\Financ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Financ\Financ\bin\Debug\Financ.exe.config
+C:\Users\user\source\repos\Financ\Financ\bin\Debug\Financ.exe
+C:\Users\user\source\repos\Financ\Financ\bin\Debug\Financ.pdb
+C:\Users\user\source\repos\Financ\Financ\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\Financ\Financ\bin\Debug\System.Data.SqlClient.dll
+C:\Users\user\source\repos\Financ\Financ\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\source\repos\Financ\Financ\bin\Debug\System.Data.SqlClient.xml
+C:\Users\user\source\repos\Financ\Financ\obj\Debug\Financ.csproj.Up2Date
+C:\Users\user\source\repos\Financ\Financ\obj\Debug\Financ.exe
+C:\Users\user\source\repos\Financ\Financ\obj\Debug\Financ.pdb
+C:\Users\user\source\repos\Financ\Financ\obj\Debug\Financ.exe.config
+C:\Users\user\source\repos\Financ\Financ\obj\Debug\HomeFinanceApp.MainForm.resources
